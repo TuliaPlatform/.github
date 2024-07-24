@@ -21,6 +21,7 @@ The testnet phase is crucial for identifying and resolving issues. We encourage 
 - **Create Lending Pools:** Users can create their own lending pools with customizable terms.
 - **Earn Staking Rewards:** Capital in lending pools earns staking rewards while awaiting borrowers.
 - **Individual Control:** Users have full control over their lending pools and can manage loans independently.
+- - **Individual Control:** Participate and earn coins with our airdrop
 
 ## Contribution
 We welcome contributions from the community. Please fork the repository and submit a pull request with your changes.
