@@ -1,5 +1,7 @@
 # Tulia Protocol
 
+App Repository Will be published when its ready to Open Source process.
+
 ## Overview
 Tulia is a revolutionary peer-to-peer lending platform that offers users unparalleled control over their financial activities. Our platform allows users to create and manage their own lending pools, earning staking rewards while awaiting borrowers. This experimental protocol is designed to provide individual control and flexibility, but it is still in the testing phase.
 
